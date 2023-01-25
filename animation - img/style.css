@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #250821;
+}
+
+.blob{
+    position: absolute;
+    width: 965px;
+    height: 500px;
+    margin-bottom: 10%;
+    margin-right: -20%;
+    /* background-color: #fff; */
+}
+
+.blob1{
+    margin: 10% ;
+}
+
+.as{
+    margin-left:10%;
+}
